@@ -1,0 +1,101 @@
+body {
+    font-family: nunito, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body ul{
+    margin: 0;
+    padding: 0;
+}
+header{
+   /* background-color: rgb(29, 165, 29); */
+   padding: 1px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-family: nunito, sans-serif;
+   font-size: 1.5em;
+}
+nav ul li {
+    display: inline;
+   padding-right: 60px;
+   
+  }
+  nav ul li a{
+    text-decoration: none;
+  }
+
+a:active, a:hover{
+background-color: hsl(124, 92%, 43%);
+
+}
+
+img{
+
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  
+}
+.container, h1{
+    text-align: center;
+    font-size: 1.5em;
+    /* background-color: aquamarine; */
+    margin-top: 0px;
+
+}
+.container{
+    background-color: rgb(29, 165, 29);
+}
+.container, p{
+    font-size: 40px;
+    text-align: justify;
+    color: whitesmoke;
+   font-weight: bold;
+ 
+}
+.first{
+    color: black;
+    background-color:#0dbf16;
+}
+#check{
+background-color: rgb(126, 202, 173);
+text-decoration: none;
+color: whitesmoke;
+text-decoration: none;
+
+
+
+}
+
+.footer{
+    margin-top: 50px;
+}
+.footer, p{
+    text-align: center;
+
+}
+/* .container{
+    background-image:url(https://st4.depositphotos.com/12245178/24591/i/450/depositphotos_245911992-stock-photo-agriculture-drone-fly-sprayed-fertilizer.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+   position: relative;
+} */
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
